@@ -29,8 +29,8 @@
 - Опыт работа с инструментами: Maven, Git.
 
 ##  **Моя статистика на GitHub:**
-![GitHub статистика](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Топ Языков Программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![GitHub статистика](https://github-readme-stats.vercel.app/api?username=Wl4dick&show_icons=true&theme=radical)
+![Топ Языков Программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=Wl4dick&layout=compact&theme=radical)
 
 ### **Квалификации**
 - **Электромонтажник 4-го разряда**.  
